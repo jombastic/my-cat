@@ -1,0 +1,32 @@
+h1 {
+  font-family: verdana;
+  text-align: center;
+  color: #5ae874;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+p {
+  text-indent: 20px;
+}
+
+em {
+  font-size: 25px;
+  color: #db3b30;
+}
+
+strong {
+  font-family: serif;
+}
+
+ol {
+  line-height: 30px;
+  font-family: verdana;
+}
+
+ul {
+  color: #809dcc;
+}
